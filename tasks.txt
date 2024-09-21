@@ -1,0 +1,3 @@
+Change color with variable name, all of the variables needs to be added to an array of criteria and alternatives respectively
+With the array we can count all fo the criteria and alternatives so we can automatically add more combined tables and update the plots and the calculations on the total of totals sections (table and bar chart)
+Store the value of every string writed on the header of the first two tables (criteria and alternatives) and use those strings in the whole app, for every chart and plot below.
